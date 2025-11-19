@@ -1,0 +1,16 @@
+# Compiled binaries
+test_bst
+test_avl_prog
+*.o
+a.out
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
